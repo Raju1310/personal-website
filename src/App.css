@@ -16,7 +16,9 @@ a{
   text-decoration: none;
 }
 
-
+.App{
+  width:100%;
+}
 
 /* Basic styling */
 body {
